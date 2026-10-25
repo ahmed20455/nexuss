@@ -26,6 +26,21 @@ A Web3 swap interface built with React, TypeScript, wagmi, viem and RainbowKit. 
 | External APIs | DefiLlama (prices), GoPlus (token security), Google Gemini (explanations) |
 | Testing | Vitest, React Testing Library, Playwright |
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot 2026-10-26 030553.png" width="45%" alt="App Screenshot" />  
+  <br></br>
+  <img src="Screenshot 2026-10-26 030633.png" width="45%" alt="App Screenshot" />
+   <br></br>
+  <img src="Screenshot 2026-10-26 030718.png" width="45%" alt="App Screenshot" />
+   <br></br>
+  <img src="Screenshot 2026-10-26 030734.png" width="45%" alt="App Screenshot" />
+   <br></br>
+   <img src="Screenshot 2026-10-26 030819.png" width="45%" alt="App Screenshot" />
+  <img src="Screenshot 2026-10-26 030832.png" width="45%" alt="App Screenshot" />
+    
+</p>
 ## How it works
 
 ```text
